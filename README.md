@@ -26,7 +26,7 @@ The game uses a 1602 LCD and custom characters to animate a dino running and jum
 
 Use `INPUT_PULLUP` for the button.
 
-## ▶️ Getting Started
+# Getting Started
 1. Upload `DinoLCDRunner.ino` to your Arduino.
 2. Make sure your LCD and button are wired correctly.
 3. Press the button to start playing!
